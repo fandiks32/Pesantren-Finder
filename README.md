@@ -22,18 +22,12 @@
 
 These tests are designed to verify Android native features and other Android specific features.
 
-## Initial Setup ##
+# Pesantren Finder : Android Hybrid application
+Artex is a Android Application
 
-There really isn't any manual setup to do. The ant script takes care of that.
-You don't even need to compile cordova-x.y.z.jar or copy it, because 
-project.properties has a library reference to ../framework.  However, Robotium has to be 
-installed for the onScrollChanged tests to work correctly.  It can be found at https://code.google.com/p/robotium/
 
-To run manually from command line:
 
-0. Build by entering `ant debug install`
-0. Run tests by clicking on "CordovaTest" icon on device
-
+## How to use ##
 To run from Eclipse:
 
 0. Import Android project into Eclipse
@@ -41,9 +35,9 @@ To run from Eclipse:
 0. Create run configuration if not already created
 0. Run As -> Android JUnit Test
 
-## Automatic Runs ##
+### Contact ###
+Contact me if you have any question by email in irfandiofficial32@gmail.com
 
-Once you have installed the test, you can launch and run the tests
-automatically with the below command:
+## Screenshot
 
-    adb shell am instrument -w org.apache.cordova.test/android.test.InstrumentationTestRunner
+http://s1027.photobucket.com/user/Irfandi_Achmad/media/2_zpsjuw2k6t3.png.html?o=0
