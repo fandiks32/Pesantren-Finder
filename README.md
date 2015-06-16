@@ -23,7 +23,7 @@
 These tests are designed to verify Android native features and other Android specific features.
 
 # Pesantren Finder : Android Hybrid application
-Artex is a Android Application
+Application to find nearest dorm in Malang City
 
 
 
@@ -40,4 +40,4 @@ Contact me if you have any question by email in irfandiofficial32@gmail.com
 
 ## Screenshot
 
-http://s1027.photobucket.com/user/Irfandi_Achmad/media/2_zpsjuw2k6t3.png.html?o=0
+https://www.dropbox.com/s/wmlejcmc44icxzu/pesantrenFinder.zip?dl=0
